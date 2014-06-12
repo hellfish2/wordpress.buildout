@@ -1,0 +1,4 @@
+wordpress.buildout
+==================
+
+Wordpress Buildout
